@@ -8,7 +8,7 @@
 
 * Darpa
 * Arpanet
-### Infrastrutura de redes e os principais equipmentos | Aula 2
+## Infrastrutura de redes e os principais equipmentos | Aula 2
 
 * NIC (Network Interface Card)
 ![image](https://cdn-reichelt.de/bilder/web/xxl_ws/E910/DIGITUS_DN10110_01.png)
