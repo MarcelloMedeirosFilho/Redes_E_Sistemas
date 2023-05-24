@@ -29,6 +29,7 @@ entre si.
 Responsável pela comutação dos quadros entre os dispositivos, podemos definir comutação como troca ou encaminhamento de informação.
 
 * Roteador
+
 ![image](https://cdn.awsli.com.br/600x450/86/86779/produto/3683126/561e4a9c62.jpg)
 
 Roteador tem a responsabilidade de procurar as melhores rotas na internet para entregar os pacotes do remetente ao destinatário no menor tempo possível.
